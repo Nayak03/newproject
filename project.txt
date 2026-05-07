@@ -6,3 +6,4 @@ Editing in github to check pull
 from local
 conflit
 local 
+new remote
